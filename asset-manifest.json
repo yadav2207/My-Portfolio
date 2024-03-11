@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/yadav2207/My-Portfolio.git/static/css/main.dc5be537.css",
+    "main.js": "/yadav2207/My-Portfolio.git/static/js/main.01a61e14.js",
+    "static/js/592.fc1c8623.chunk.js": "/yadav2207/My-Portfolio.git/static/js/592.fc1c8623.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/yadav2207/My-Portfolio.git/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/yadav2207/My-Portfolio.git/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/Ritu.png.jpeg": "/yadav2207/My-Portfolio.git/static/media/Ritu.png.3cd2b9260281c5460e72.jpeg",
+    "static/media/testimonial3.png": "/yadav2207/My-Portfolio.git/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
+    "static/media/testimonial2.png": "/yadav2207/My-Portfolio.git/static/media/testimonial2.39a53f7f092f07f5bceb.png",
+    "static/media/testimonial1.png": "/yadav2207/My-Portfolio.git/static/media/testimonial1.89079c1d25f2c94ceb89.png",
+    "index.html": "/yadav2207/My-Portfolio.git/index.html",
+    "main.dc5be537.css.map": "/yadav2207/My-Portfolio.git/static/css/main.dc5be537.css.map",
+    "main.01a61e14.js.map": "/yadav2207/My-Portfolio.git/static/js/main.01a61e14.js.map",
+    "592.fc1c8623.chunk.js.map": "/yadav2207/My-Portfolio.git/static/js/592.fc1c8623.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc5be537.css",
+    "static/js/main.01a61e14.js"
+  ]
+}
